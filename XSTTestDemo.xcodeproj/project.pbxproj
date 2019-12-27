@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A238FD9D23B5AFCC00B91616 /* XSTGuideLikeAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = A238FD9C23B5AFCC00B91616 /* XSTGuideLikeAnimationView.m */; };
 		A2FC9CE322812E2E002F36FC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A2FC9CE222812E2E002F36FC /* AppDelegate.m */; };
 		A2FC9CE622812E2E002F36FC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2FC9CE522812E2E002F36FC /* ViewController.m */; };
 		A2FC9CE922812E2E002F36FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2FC9CE722812E2E002F36FC /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A238FD9B23B5AFCB00B91616 /* XSTGuideLikeAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XSTGuideLikeAnimationView.h; sourceTree = "<group>"; };
+		A238FD9C23B5AFCC00B91616 /* XSTGuideLikeAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XSTGuideLikeAnimationView.m; sourceTree = "<group>"; };
 		A2FC9CDE22812E2E002F36FC /* XSTTestDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XSTTestDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2FC9CE122812E2E002F36FC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A2FC9CE222812E2E002F36FC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -101,6 +104,8 @@
 		A2FC9CE022812E2E002F36FC /* XSTTestDemo */ = {
 			isa = PBXGroup;
 			children = (
+				A238FD9B23B5AFCB00B91616 /* XSTGuideLikeAnimationView.h */,
+				A238FD9C23B5AFCC00B91616 /* XSTGuideLikeAnimationView.m */,
 				A2FC9CE122812E2E002F36FC /* AppDelegate.h */,
 				A2FC9CE222812E2E002F36FC /* AppDelegate.m */,
 				A2FC9CE422812E2E002F36FC /* ViewController.h */,
@@ -265,6 +270,7 @@
 				A2FC9CE622812E2E002F36FC /* ViewController.m in Sources */,
 				A2FC9CF122812E2F002F36FC /* main.m in Sources */,
 				A2FC9CE322812E2E002F36FC /* AppDelegate.m in Sources */,
+				A238FD9D23B5AFCC00B91616 /* XSTGuideLikeAnimationView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
